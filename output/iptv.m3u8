@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 CUID="91208dc5459ede9d5fb55e48e8063cee" tvg-id="ETTVNews.tw" tvg-name="ETTV News (720p)" group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ettv-news-tw.png",ETTV News (720p)
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 CUID="a3446dce4d4e2dbb4b836bd2ca522a9c" tvg-id="EBCNews.tw" tvg-name="EBC News (東森新聞台) (1080p) [Not 24/7]" group-title="News" tvg-logo="https://i.imgur.com/obtCusJ.jpg",EBC News (東森新聞台) (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 CUID="0e7a62a94596e3e8bfc3115a07c0ccb7" tvg-id="EBCFinancialNews.tw" tvg-name="EBC Financial News (東森財經新聞台) (720p)" group-title="News" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png",EBC Financial News (東森財經新聞台) (720p)
+http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
+#EXTINF:-1 CUID="2772bf9d6f81c889f3d74f52aa9b4b79" tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1 (600p) [Not 24/7]" group-title="News" tvg-logo="https://i.imgur.com/AvYpKxL.png",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 CUID="23ace6a0c16ffb35b287e15aa4502a53" tvg-id="ToonmaxTV.cn" tvg-name="Toonmax TV (576p)" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",Toonmax TV (576p)
+http://210.210.155.37/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 CUID="f8e15f2ade1deaa9623e59d03a053048" tvg-id="MyCinemaAsia.id" tvg-name="My Cinema Asia (1080p) [Geo-blocked]" group-title="Movies" tvg-logo="https://i.imgur.com/MGuWJtn.png",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 CUID="f7065d7938e27274e048783f8fa62873" tvg-id="CCTV13.cn" tvg-name="CCTV-13新闻 (1080p)" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13新闻 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 CUID="083680f3e5f41115af70695c2e3f3f66" tvg-id="CCTV9.cn" tvg-name="CCTV-9纪录 (1080p)" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9纪录 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 CUID="2aea36d422d7e7522b7fd70e00f9127c" tvg-id="CCTV6.cn" tvg-name="CCTV-6电影 (1080p)" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png",CCTV-6电影 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 CUID="3861b3792981c419b2e4e17a6f2607c9" tvg-id="TVBSNews.tw" tvg-name="TVBS News (TVBS新聞台) (720p)" group-title="News" tvg-logo="https://i.imgur.com/Hsop2If.png",TVBS News (TVBS新聞台) (720p)
+http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1 CUID="6495fc7a6ef8644f4972f8765f1b3413" tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2 (600p) [Not 24/7]" group-title="News" tvg-logo="https://i.imgur.com/AvYpKxL.png",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 CUID="15cd7376a4bcdbaeb05134a9bd22784e" tvg-id="LSTimeMovie.tw" tvg-name="LS Time Movie (720p)" group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ll/ls_time_movie.png",LS Time Movie (720p)
+http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
+#EXTINF:-1 CUID="691059b4a97eeb932ce9a84ad965651f" tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel (鳳凰衛視資訊) (576p)" group-title="News" tvg-logo="https://i.imgur.com/TCqVO3f.png",Phoenix InfoNews Channel (鳳凰衛視資訊) (576p)
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 CUID="c957c031225f0cb5460a980e453ad72a" tvg-id="Thrill.hk" tvg-name="Thrill (576p)" group-title="Movies" tvg-logo="https://i.imgur.com/isr5jto.png",Thrill (576p)
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 CUID="d0e5ca8050242fce7399706116e250f2" tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies (Indonesian Subtitle) (576p)" group-title="Movies" tvg-logo="https://i.imgur.com/KYP1xXZ.png",Celestial Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 CUID="3bd40666727c99756a132054624b936e" tvg-id="CTSNews.tw" tvg-name="CTS News (華視新聞資訊) [Geo-blocked]" group-title="News" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png",CTS News (華視新聞資訊) [Geo-blocked]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 CUID="8f8354d375a5e9e0a6f4ebc13cd94e3c" tvg-id="CCTV3.cn" tvg-name="CCTV-3综艺 (1080p)" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3综艺 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 CUID="db1585663a7ae980d5f7a81982975347" tvg-id="CTiEntertainment.tw" tvg-name="CTi Entertainment (中天娛樂台) (720p)" group-title="Entertainment" tvg-logo="https://i.imgur.com/bIQ3STm.png",CTi Entertainment (中天娛樂台) (720p)
+http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
